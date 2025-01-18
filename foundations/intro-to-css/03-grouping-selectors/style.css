@@ -1,0 +1,14 @@
+.moderate {
+    background-color: black;
+    color: white;
+}
+
+.stubborn {
+    background-color: yellow;
+}
+
+.moderate,
+.stubborn {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
